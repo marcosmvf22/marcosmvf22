@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1565C0,100:42A5F5&height=220&section=header&text=Marcos%20Vin%C3%ADcius&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Gerente%20de%20Projetos%20%7C%20Desenvolvedor%20Front%20End&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Banner azul com o nome Marcos Vinícius" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1565C0,100:42A5F5&height=220&section=header&text=Marcos%20Vin%C3%ADcius&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Gerente%20de%20Projetos%20%7C%20Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Banner azul com o nome Marcos Vinícius" />
 
 <a href="https://github.com/marcosmvf22">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Vin%C3%ADcius;Gerente+de+Projetos+na+Code+Jr;Estudante+de+Engenharia+Computacional+na+UFJF;Desenvolvedor+Next.js+e+TypeScript" alt="Texto animado de apresentação" />
