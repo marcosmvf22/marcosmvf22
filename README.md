@@ -14,7 +14,6 @@
 
 🔹 Cursando Engenharia Computacional na [Universidade Federal de Juiz de Fora](https://www.ufjf.br) (UFJF)<br>
 🔹 Gerente de Projetos na [Code Empresa Júnior de Computação](https://codejr.com.br)<br>
-🔹 Técnico em Manutenção e Suporte em Informática pelo SENAI MG<br>
 🔹 Construindo aplicações web com Next.js e TypeScript<br>
 🔹 Juiz de Fora, Minas Gerais
 
@@ -40,31 +39,16 @@
 
 <br>
 
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcosmvf22&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E88E5&icon_color=42A5F5&text_color=2196F3&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmvf22&layout=compact&hide_border=true&bg_color=00000000&title_color=1E88E5&text_color=2196F3&locale=pt-br" alt="Linguagens mais usadas" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=marcosmvf22&hide_border=true&background=00000000&ring=1E88E5&fire=42A5F5&currStreakLabel=1E88E5&sideLabels=1E88E5&currStreakNum=2196F3&sideNums=2196F3&dates=64B5F6&stroke=1565C0&locale=pt_BR" alt="Sequência de contribuições" />
-
-</div>
-
-<br>
-
 ## 🌐 Contato
 
 <!-- Troque SEU_USUARIO pelo final do link do seu perfil no LinkedIn -->
 <!-- Troque SEU_EMAIL@exemplo.com pelo seu email -->
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <a href="https://www.linkedin.com/in/marcos-vinícius-ferreira-7417643a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:marcosferreira2579@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E88E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
